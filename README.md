@@ -32,8 +32,6 @@
 
 - VSC extension for Rosemary
 - Hermes' website
-- Rosemary
-- Hermes
 - Discord bots
 
 ## I'm learning
