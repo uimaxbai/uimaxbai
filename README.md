@@ -2,25 +2,36 @@
 
 ## ![My stats](https://github-readme-stats.vercel.app/api?username=uimaxbai&hide=prs,contribs)
 
-### I am a Web Frontend Developer
+### I am a Web Fullstack Developer
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,nodejs)](https://skillicons.dev)
 
-### I'm okay at Python, PHP and Bash
+### My favorite things to use
 
-[![My Skills](https://skillicons.dev/icons?i=php,py,bash)](https://skillicons.dev)
+* Code editor - VSCode or neovim
+* Frontend - Nuxt, Tailwind + SASS
+* Backend - PHP or Firebase
+
+### I'm okay at Python and Bash
+
+[![My Skills](https://skillicons.dev/icons?i=py,bash)](https://skillicons.dev)
 
 ### I like robots
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,py)](https://skillicons.dev)
 
-### And if I can be bothered to, I'll code in some basic C and Rust
+### And if I can be bothered to, I'll code in some basic C, Rust, Swift or Kotlin
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,rust,swift,kotlin)](https://skillicons.dev)
 
 ### But I will never code in C++
 
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+
+### For some reason, I can use Blender
+
+[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+
 
 ## Things I have used before
 
@@ -31,8 +42,8 @@
 *Last updated: a long time ago*
 
 - VSC extension for Rosemary
-- Hermes' website
-- Discord bots
+- A random terminal IDE
+- My personal website
 
 ## I'm learning
 
@@ -43,7 +54,7 @@
 
 goto antarctica and follow the signs
 
-or message me on Discord `DownloadFirefox#9162` (will update when I get the username update).
+or message me on Discord `@DownloadFirefox`
 
 ## A random joke
 
