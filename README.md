@@ -41,9 +41,9 @@
 
 *Last updated: a long time ago*
 
-- VSC extension for Rosemary
-- A random terminal IDE
-- My personal website
+- The Captcha Game
+- A new Dispatch
+- `pyedit`
 
 ## I'm learning
 
