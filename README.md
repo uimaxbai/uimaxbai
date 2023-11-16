@@ -9,8 +9,8 @@
 ### My favorite things to use
 
 * Code editor - VSCode or neovim
-* Frontend - Nuxt, Tailwind + SASS
-* Backend - PHP or Firebase
+* Frontend - Nuxt, SvelteKit, Tailwind + SCSS
+* Backend - PHP, Firebase, ExpressJS
 
 ### I'm okay at Python and Bash
 
