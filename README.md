@@ -24,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,rust,swift,kotlin)](https://skillicons.dev)
 
-### But I will never code in C++
+### ~~But I will never code in C++~~ Haha guess that one didn't age well
 
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
