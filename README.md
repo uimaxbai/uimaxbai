@@ -41,9 +41,9 @@
 
 *Last updated: a long time ago*
 
-- The Captcha Game
-- A new Dispatch
-- `pyedit`
+- [https://okit.works](https://okit.works) (currently down)
+- learning c++
+- newtime
 
 ## I'm learning
 
