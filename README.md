@@ -12,7 +12,7 @@
 * Frontend - Nuxt, SvelteKit, Tailwind + SCSS
 * Backend - PHP, Firebase, ExpressJS
 
-### I'm okay at Python and Bash
+### I'm experienced at Python and Bash
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash)](https://skillicons.dev)
 
@@ -20,11 +20,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,py)](https://skillicons.dev)
 
-### And if I can be bothered to, I'll code in some basic C, Rust, Swift or Kotlin
+### I'll code in some basic C, Rust, Swift or Kotlin
 
 [![My Skills](https://skillicons.dev/icons?i=c,rust,swift,kotlin)](https://skillicons.dev)
 
-### ~~But I will never code in C++~~ Haha guess that one didn't age well
+### ~~But I will never code in C++~~ Haha guess that one didn't age well (I now know C++)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
@@ -42,12 +42,12 @@
 *Last updated: a long time ago*
 
 - [https://okit.works](https://okit.works) (currently down)
-- learning c++
-- newtime
+- jsontp
+- searchpad
+- browser-test
 
 ## I'm learning
 
-- More C
 - Maths
 
 ## How to reach me
