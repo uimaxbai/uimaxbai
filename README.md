@@ -9,8 +9,9 @@
 ### My favorite things to use
 
 * Code editor - VSCode or neovim
-* Frontend - Nuxt, SvelteKit, Tailwind + SCSS
+* Frontend - Svelte, React, Tailwind + SCSS
 * Backend - PHP, Firebase, ExpressJS
+* Fullstack - Nuxt, Next, SvelteKit
 
 ### I'm experienced at Python and Bash
 
@@ -42,7 +43,7 @@
 *Last updated: a long time ago*
 
 - [https://okit.works](https://okit.works) (currently down)
-- jsontp
+- will
 - searchpad
 - browser-test
 
