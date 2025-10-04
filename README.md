@@ -9,8 +9,8 @@
 ### My favorite things to use
 
 * Code editor - VSCode or neovim
-* Frontend - Svelte, React, Tailwind + SCSS
-* Backend - PHP, Firebase, ExpressJS
+* Frontend - SvelteKit, React, Tailwind + SCSS
+* Backend - Django, PHP, Firebase, ExpressJS
 * Fullstack - Nuxt, Next, SvelteKit
 
 ### I'm experienced at Python and Bash
@@ -42,10 +42,7 @@
 
 *Last updated: a long time ago*
 
-- [https://okit.works](https://okit.works) (currently down)
-- will
-- searchpad
-- browser-test
+- tidal ui
 
 ## I'm learning
 
@@ -55,7 +52,7 @@
 
 goto antarctica and follow the signs
 
-or message me on Discord `@DownloadFirefox`
+or message me on Discord `@binimum`
 
 ## A random joke
 
