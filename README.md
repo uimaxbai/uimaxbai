@@ -1,5 +1,9 @@
 # Hi there 👋
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 ## I do the web
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,python)](https://skillicons.dev)
