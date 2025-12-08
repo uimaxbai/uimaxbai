@@ -2,41 +2,37 @@
 
 ## ![My stats](https://github-readme-stats.vercel.app/api?username=uimaxbai&hide=prs,contribs)
 
-### I am a Web Fullstack Developer
+### I do the web
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,php,python)](https://skillicons.dev)
 
 ### My favorite things to use
 
-* Code editor - VSCode or neovim
-* Frontend - SvelteKit, React, Tailwind + SCSS
-* Backend - Django, PHP, Firebase, ExpressJS
+* Code editor - VSCode or nvim
+* Bun
+* Frontend - Svelte, SCSS (Tailwind), Figma
+* Backend - Flask, Express, FastAPI
 * Fullstack - Nuxt, Next, SvelteKit
 
-### I'm experienced at Python and Bash
+### I'm experienced at Python and JS/TS
 
-[![My Skills](https://skillicons.dev/icons?i=py,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts)](https://skillicons.dev)
 
 ### I like robots
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,py)](https://skillicons.dev)
 
-### I'll code in some basic C, Rust, Swift or Kotlin
+### I'll code in some VERY basic C, Rust, Swift or Java
 
-[![My Skills](https://skillicons.dev/icons?i=c,rust,swift,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,rust,swift,java)](https://skillicons.dev)
 
-### ~~But I will never code in C++~~ Haha guess that one didn't age well (I now know C++)
+### Proud all-round user of Windows (i5-4690K, 24GB DDR3), Arch (eww, Hyprland/Sway), Debian (i7-2640M, 8GB DDR3, xfce) and macOS (M1 MBA)
 
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-
-### For some reason, I can use Blender
-
-[![My Skills](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=windows,apple,debian,arch)](https://skillicons.dev)
 
 ## Things I have used before
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,postman,atom,visualstudio,ps,linux,discord,github,replit,git,gitlab,cloudflare&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,atom,visualstudio,ps,linux,discord,github,replit,git,gitlab,cloudflare,bash,powershell,figma,blender&perline=6)](https://skillicons.dev)
 
 ## Current projects
 
