@@ -52,6 +52,8 @@ goto antarctica and follow the signs
 
 or message me on Discord `@binimum`
 
+email [max@binimum.org](mailto:max@binimum.org)
+
 ## A random joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
